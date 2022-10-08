@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SabareesanArjunasamy
+- 👋 Hi, I’m @Sabareesan Arjunasamy
 - ![myfile](https://www.mkgifs.com/wp-content/uploads/2022/04/Kakashi-Hatake-GIF-Wallpaper.gif)
 - 👀 I’m interested in AI & ML
 - 🌱 I’m currently learning AI
