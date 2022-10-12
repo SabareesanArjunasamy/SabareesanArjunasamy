@@ -1,4 +1,4 @@
-<h1 align="center"> I'm Sabaree &emsp; <img src="https://github.com/SabareesanArjunasamy/SabareesanArjunasamy/blob/main/17438b15b21445693df7ef9b1ea52bb7_w200.gif"> &emsp; the Copy Coder</h1>
+<h1 align="center"> I'm Sabaree &nbsp; <img src="https://github.com/SabareesanArjunasamy/SabareesanArjunasamy/blob/main/editor-1s-47px.gif"> &nbsp; the Copy Coder</h1>
 
  ![myfile](https://64.media.tumblr.com/f2a53831ea31778e3dcbe6cfaf8e4c30/tumblr_p6ez5aCuO61x0j068o1_500.gif)
  
