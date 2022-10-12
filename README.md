@@ -14,19 +14,19 @@
  [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite&perline=10)](https://skillicons.dev)
  
  ### Data Science Technology
-
+<p>
 <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" />
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" />
 <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
-<img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=Leaflet&logoColor=white" />
-<img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
-
+</p>
   
  ### Web frameworks && Technologies
- [![My Skills](https://skillicons.dev/icons?i=html,css,nodejs,postgres,react,django&perline=10)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=html,css,nodejs,react,django&perline=10)](https://skillicons.dev)
  
- 
- ,git,github,gitlab,mysql,linux,raspberrypi,vscode,idea
+ ### Ninja Tools
+  [![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,linux,raspberrypi,vscode,idea&perline=10)](https://skillicons.dev)
+
+
