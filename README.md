@@ -1,4 +1,4 @@
-<h1 align="center"> I'M Sabaree &nbsp; 
+<h1 align="center"> I'M Sab &nbsp; 
 <img src="https://github.com/SabareesanArjunasamy/SabareesanArjunasamy/blob/main/17438b15b21445693df7ef9b1ea52bb7_w200.gif?raw=true" alt="Trulli" width="50" height="50" style="border-radius: 50%"> 
 &nbsp; The Coding Ninja</h1>
 
