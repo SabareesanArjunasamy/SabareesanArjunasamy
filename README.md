@@ -10,7 +10,7 @@
  
  ## Jutsus I Know
  ### Programming Languages
- [![My Skills](https://skillicons.dev/icons?i=python,java,c,cpp,scala,javascript&perline=10)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=python,java,c,cpp,scala,javascript,typescript&perline=10)](https://skillicons.dev)
  
  ### Query Languages
  [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite&perline=10)](https://skillicons.dev)
