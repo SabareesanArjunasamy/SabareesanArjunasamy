@@ -12,8 +12,8 @@
  ### Programming Languages
  [![My Skills](https://skillicons.dev/icons?i=python,java,c,cpp,scala,javascript,typescript&perline=10)](https://skillicons.dev)
  
- ### Query Languages
- [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite&perline=10)](https://skillicons.dev)
+ ### Data Bases
+ [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,clickhouse,sqlite&perline=10)](https://skillicons.dev)
  
  ### Data Science Technology
 <p>
